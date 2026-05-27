@@ -1,0 +1,14 @@
+{
+  "openai": {
+    "api_key": "sk-...",
+    "base_url": "",
+    "model": ""
+  },
+  "iwg": {
+    "scout_model": "",
+    "wrapper_model": "",
+    "validation_tier1_model": "",
+    "validation_tier2_model": "",
+    "orchestrator_model": ""
+  }
+}

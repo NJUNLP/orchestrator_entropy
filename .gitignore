@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+bench/
+trajectories/
+trajectory-bench/
+*.log
+
+# Sensitive files
+/config.json
+iwg/validation_results.json
+iwg/VALIDATION_REPORT.md
