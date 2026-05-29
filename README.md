@@ -14,7 +14,7 @@ Configure your API key in `iwg/config.json`:
 
 ```json
 {
-  "deepseek": {
+  "model": {
     "api_key": "sk-...",
     "model": "gpt-4.1"
   }
